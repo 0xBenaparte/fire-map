@@ -1,0 +1,1586 @@
+[
+  {
+    "client": "pi-1",
+    "heat_stable": null,
+    "temperature": null,
+    "humidity": null,
+    "pressure": null,
+    "gas_resistance": null,
+    "created_at": "2023-01-06 12:45:28"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.503,
+    "pressure": 1014.93,
+    "gas_resistance": 22489.25886143931,
+    "created_at": "2023-01-06 10:51:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.95,
+    "humidity": 58.471,
+    "pressure": 1014.91,
+    "gas_resistance": 22369.123931623933,
+    "created_at": "2023-01-06 10:51:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.94,
+    "humidity": 58.235,
+    "pressure": 1014.93,
+    "gas_resistance": 22561.96120689655,
+    "created_at": "2023-01-06 10:50:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.93,
+    "humidity": 58.135,
+    "pressure": 1014.93,
+    "gas_resistance": 22610.691144708428,
+    "created_at": "2023-01-06 10:50:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.94,
+    "humidity": 58.165,
+    "pressure": 1014.95,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:50:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.95,
+    "humidity": 58.509,
+    "pressure": 1014.91,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:50:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.625,
+    "pressure": 1014.97,
+    "gas_resistance": 22062.697576396207,
+    "created_at": "2023-01-06 10:50:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.33,
+    "pressure": 1014.97,
+    "gas_resistance": 22369.123931623933,
+    "created_at": "2023-01-06 10:50:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.773,
+    "pressure": 1014.97,
+    "gas_resistance": 22273.936170212768,
+    "created_at": "2023-01-06 10:49:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.587,
+    "pressure": 1014.97,
+    "gas_resistance": 21947.064989517818,
+    "created_at": "2023-01-06 10:49:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 58.471,
+    "pressure": 1014.97,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:49:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 58.246,
+    "pressure": 1014.97,
+    "gas_resistance": 22132.663847780128,
+    "created_at": "2023-01-06 10:49:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 58.214,
+    "pressure": 1014.97,
+    "gas_resistance": 22179.555084745763,
+    "created_at": "2023-01-06 10:49:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 58.4,
+    "pressure": 1014.99,
+    "gas_resistance": 22016.298633017876,
+    "created_at": "2023-01-06 10:49:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.541,
+    "pressure": 1014.99,
+    "gas_resistance": 21993.172268907565,
+    "created_at": "2023-01-06 10:48:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.65,
+    "pressure": 1015.01,
+    "gas_resistance": 21901.150627615065,
+    "created_at": "2023-01-06 10:48:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.575,
+    "pressure": 1015.01,
+    "gas_resistance": 21924.083769633507,
+    "created_at": "2023-01-06 10:48:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.819,
+    "pressure": 1015.01,
+    "gas_resistance": 21719.39834024896,
+    "created_at": "2023-01-06 10:48:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 58.845,
+    "pressure": 1014.99,
+    "gas_resistance": 21496.40657084189,
+    "created_at": "2023-01-06 10:48:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.98,
+    "humidity": 58.636,
+    "pressure": 1015.01,
+    "gas_resistance": 21452.35655737705,
+    "created_at": "2023-01-06 10:48:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.01,
+    "humidity": 58.609,
+    "pressure": 1014.99,
+    "gas_resistance": 21607.32714138287,
+    "created_at": "2023-01-06 10:47:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.03,
+    "humidity": 58.639,
+    "pressure": 1014.99,
+    "gas_resistance": 21430.39918116684,
+    "created_at": "2023-01-06 10:47:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.04,
+    "humidity": 58.561,
+    "pressure": 1015.01,
+    "gas_resistance": 21364.79591836735,
+    "created_at": "2023-01-06 10:47:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.05,
+    "humidity": 58.629,
+    "pressure": 1015.01,
+    "gas_resistance": 21343.01732925586,
+    "created_at": "2023-01-06 10:47:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.05,
+    "humidity": 58.868,
+    "pressure": 1015.01,
+    "gas_resistance": 21106.350806451617,
+    "created_at": "2023-01-06 10:47:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 58.861,
+    "pressure": 1015.03,
+    "gas_resistance": 21106.350806451617,
+    "created_at": "2023-01-06 10:47:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 58.732,
+    "pressure": 1015.01,
+    "gas_resistance": 20958.45845845846,
+    "created_at": "2023-01-06 10:46:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.07,
+    "humidity": 58.621,
+    "pressure": 1015.01,
+    "gas_resistance": 20916.583416583417,
+    "created_at": "2023-01-06 10:46:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.11,
+    "humidity": 58.663,
+    "pressure": 1015.05,
+    "gas_resistance": 20750.743310208127,
+    "created_at": "2023-01-06 10:46:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 58.681,
+    "pressure": 1015.05,
+    "gas_resistance": 20486.79060665362,
+    "created_at": "2023-01-06 10:46:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.19,
+    "humidity": 58.698,
+    "pressure": 1015.05,
+    "gas_resistance": 20249.032882011605,
+    "created_at": "2023-01-06 10:46:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.24,
+    "humidity": 58.782,
+    "pressure": 1015.05,
+    "gas_resistance": 19997.612225405926,
+    "created_at": "2023-01-06 10:46:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.3,
+    "humidity": 58.998,
+    "pressure": 1015.09,
+    "gas_resistance": 19715.160075329568,
+    "created_at": "2023-01-06 10:45:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.39,
+    "humidity": 59.347,
+    "pressure": 1015.07,
+    "gas_resistance": 19368.6401480111,
+    "created_at": "2023-01-06 10:45:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.48,
+    "humidity": 59.987,
+    "pressure": 1015.09,
+    "gas_resistance": 18999.546279491835,
+    "created_at": "2023-01-06 10:45:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.57,
+    "humidity": 60.824,
+    "pressure": 1015.11,
+    "gas_resistance": 18611.111111111113,
+    "created_at": "2023-01-06 10:45:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.68,
+    "humidity": 64.406,
+    "pressure": 1015.13,
+    "gas_resistance": 17910.60735671514,
+    "created_at": "2023-01-06 10:45:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.77,
+    "humidity": 71.776,
+    "pressure": 1015.13,
+    "gas_resistance": 17190.065681444994,
+    "created_at": "2023-01-06 10:45:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.83,
+    "humidity": 81.155,
+    "pressure": 1015.09,
+    "gas_resistance": 16473.249409913456,
+    "created_at": "2023-01-06 10:44:57"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.87,
+    "humidity": 82.647,
+    "pressure": 1015.09,
+    "gas_resistance": 16473.249409913456,
+    "created_at": "2023-01-06 10:44:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.4,
+    "humidity": 67.67,
+    "pressure": 1015.11,
+    "gas_resistance": 18879.62128043282,
+    "created_at": "2023-01-06 10:44:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.9,
+    "humidity": 58.78,
+    "pressure": 1015.07,
+    "gas_resistance": 22586.299892125135,
+    "created_at": "2023-01-06 10:44:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.91,
+    "humidity": 58.419,
+    "pressure": 1015.07,
+    "gas_resistance": 22758.152173913048,
+    "created_at": "2023-01-06 10:44:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.92,
+    "humidity": 58.533,
+    "pressure": 1015.09,
+    "gas_resistance": 22659.632034632035,
+    "created_at": "2023-01-06 10:44:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.93,
+    "humidity": 58.527,
+    "pressure": 1015.09,
+    "gas_resistance": 22857.5327510917,
+    "created_at": "2023-01-06 10:43:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.94,
+    "humidity": 58.526,
+    "pressure": 1015.09,
+    "gas_resistance": 22513.440860215054,
+    "created_at": "2023-01-06 10:43:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 58.478,
+    "pressure": 1015.13,
+    "gas_resistance": 22586.299892125135,
+    "created_at": "2023-01-06 10:43:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 58.387,
+    "pressure": 1015.13,
+    "gas_resistance": 22684.18201516793,
+    "created_at": "2023-01-06 10:43:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.98,
+    "humidity": 58.36,
+    "pressure": 1015.11,
+    "gas_resistance": 22659.632034632035,
+    "created_at": "2023-01-06 10:43:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24,
+    "humidity": 58.355,
+    "pressure": 1015.11,
+    "gas_resistance": 22782.9162132753,
+    "created_at": "2023-01-06 10:43:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.03,
+    "humidity": 58.329,
+    "pressure": 1015.11,
+    "gas_resistance": 22635.135135135133,
+    "created_at": "2023-01-06 10:42:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.04,
+    "humidity": 58.388,
+    "pressure": 1015.11,
+    "gas_resistance": 22561.96120689655,
+    "created_at": "2023-01-06 10:42:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.05,
+    "humidity": 58.162,
+    "pressure": 1015.11,
+    "gas_resistance": 22659.632034632035,
+    "created_at": "2023-01-06 10:42:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.04,
+    "humidity": 58.144,
+    "pressure": 1015.13,
+    "gas_resistance": 22635.135135135133,
+    "created_at": "2023-01-06 10:42:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 58.153,
+    "pressure": 1015.11,
+    "gas_resistance": 22513.440860215054,
+    "created_at": "2023-01-06 10:42:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 58.341,
+    "pressure": 1015.11,
+    "gas_resistance": 22345.250800426893,
+    "created_at": "2023-01-06 10:42:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.07,
+    "humidity": 58.577,
+    "pressure": 1015.11,
+    "gas_resistance": 22441.05037513398,
+    "created_at": "2023-01-06 10:41:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 58.585,
+    "pressure": 1015.11,
+    "gas_resistance": 22393.04812834225,
+    "created_at": "2023-01-06 10:41:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 58.597,
+    "pressure": 1015.11,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:41:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.05,
+    "humidity": 58.739,
+    "pressure": 1015.09,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:41:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.05,
+    "humidity": 58.726,
+    "pressure": 1015.11,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:41:17"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.04,
+    "humidity": 58.774,
+    "pressure": 1015.11,
+    "gas_resistance": 22369.123931623933,
+    "created_at": "2023-01-06 10:41:07"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.03,
+    "humidity": 58.909,
+    "pressure": 1015.11,
+    "gas_resistance": 22226.64543524416,
+    "created_at": "2023-01-06 10:40:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.02,
+    "humidity": 58.951,
+    "pressure": 1015.13,
+    "gas_resistance": 22393.04812834225,
+    "created_at": "2023-01-06 10:40:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24,
+    "humidity": 59.052,
+    "pressure": 1015.13,
+    "gas_resistance": 22273.936170212768,
+    "created_at": "2023-01-06 10:40:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.99,
+    "humidity": 59.048,
+    "pressure": 1015.13,
+    "gas_resistance": 22393.04812834225,
+    "created_at": "2023-01-06 10:40:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.98,
+    "humidity": 59.004,
+    "pressure": 1015.15,
+    "gas_resistance": 22297.657082002133,
+    "created_at": "2023-01-06 10:40:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 58.948,
+    "pressure": 1015.15,
+    "gas_resistance": 22417.023554603857,
+    "created_at": "2023-01-06 10:40:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 59.024,
+    "pressure": 1015.13,
+    "gas_resistance": 22369.123931623933,
+    "created_at": "2023-01-06 10:39:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.95,
+    "humidity": 59.064,
+    "pressure": 1015.17,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:39:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.96,
+    "humidity": 59.115,
+    "pressure": 1015.15,
+    "gas_resistance": 22345.250800426893,
+    "created_at": "2023-01-06 10:39:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.97,
+    "humidity": 59.052,
+    "pressure": 1015.13,
+    "gas_resistance": 22321.428571428572,
+    "created_at": "2023-01-06 10:39:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.98,
+    "humidity": 59.101,
+    "pressure": 1015.15,
+    "gas_resistance": 22203.07529162248,
+    "created_at": "2023-01-06 10:39:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.98,
+    "humidity": 59.236,
+    "pressure": 1015.13,
+    "gas_resistance": 22203.07529162248,
+    "created_at": "2023-01-06 10:39:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.99,
+    "humidity": 59.293,
+    "pressure": 1015.13,
+    "gas_resistance": 22109.29250263992,
+    "created_at": "2023-01-06 10:38:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 23.99,
+    "humidity": 59.217,
+    "pressure": 1015.13,
+    "gas_resistance": 22226.64543524416,
+    "created_at": "2023-01-06 10:38:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24,
+    "humidity": 59.269,
+    "pressure": 1015.15,
+    "gas_resistance": 22179.555084745763,
+    "created_at": "2023-01-06 10:38:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.01,
+    "humidity": 59.158,
+    "pressure": 1015.13,
+    "gas_resistance": 22179.555084745763,
+    "created_at": "2023-01-06 10:38:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.04,
+    "humidity": 59.104,
+    "pressure": 1015.15,
+    "gas_resistance": 22203.07529162248,
+    "created_at": "2023-01-06 10:38:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.05,
+    "humidity": 59.087,
+    "pressure": 1015.13,
+    "gas_resistance": 22132.663847780128,
+    "created_at": "2023-01-06 10:38:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 59.159,
+    "pressure": 1015.13,
+    "gas_resistance": 21901.150627615065,
+    "created_at": "2023-01-06 10:37:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.08,
+    "humidity": 58.951,
+    "pressure": 1015.13,
+    "gas_resistance": 22156.084656084655,
+    "created_at": "2023-01-06 10:37:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 58.842,
+    "pressure": 1015.17,
+    "gas_resistance": 22016.298633017876,
+    "created_at": "2023-01-06 10:37:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.12,
+    "humidity": 59.086,
+    "pressure": 1015.17,
+    "gas_resistance": 22039.473684210527,
+    "created_at": "2023-01-06 10:37:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.033,
+    "pressure": 1015.15,
+    "gas_resistance": 22016.298633017876,
+    "created_at": "2023-01-06 10:37:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.02,
+    "pressure": 1015.15,
+    "gas_resistance": 21970.094438614906,
+    "created_at": "2023-01-06 10:37:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.14,
+    "humidity": 59.082,
+    "pressure": 1015.17,
+    "gas_resistance": 21947.064989517818,
+    "created_at": "2023-01-06 10:36:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.14,
+    "humidity": 58.818,
+    "pressure": 1015.17,
+    "gas_resistance": 21993.172268907565,
+    "created_at": "2023-01-06 10:36:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 58.791,
+    "pressure": 1015.17,
+    "gas_resistance": 21970.094438614906,
+    "created_at": "2023-01-06 10:36:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 58.757,
+    "pressure": 1015.15,
+    "gas_resistance": 21993.172268907565,
+    "created_at": "2023-01-06 10:36:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 58.635,
+    "pressure": 1015.15,
+    "gas_resistance": 21947.064989517818,
+    "created_at": "2023-01-06 10:36:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 58.681,
+    "pressure": 1015.17,
+    "gas_resistance": 22062.697576396207,
+    "created_at": "2023-01-06 10:36:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.16,
+    "humidity": 58.806,
+    "pressure": 1015.17,
+    "gas_resistance": 21924.083769633507,
+    "created_at": "2023-01-06 10:35:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.17,
+    "humidity": 58.727,
+    "pressure": 1015.15,
+    "gas_resistance": 21855.42797494781,
+    "created_at": "2023-01-06 10:35:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.19,
+    "humidity": 58.808,
+    "pressure": 1015.15,
+    "gas_resistance": 21832.638164754957,
+    "created_at": "2023-01-06 10:35:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.19,
+    "humidity": 58.789,
+    "pressure": 1015.15,
+    "gas_resistance": 21878.26541274817,
+    "created_at": "2023-01-06 10:35:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.18,
+    "humidity": 58.603,
+    "pressure": 1015.17,
+    "gas_resistance": 21787.200832466184,
+    "created_at": "2023-01-06 10:35:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.18,
+    "humidity": 58.641,
+    "pressure": 1015.19,
+    "gas_resistance": 21878.26541274817,
+    "created_at": "2023-01-06 10:35:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.18,
+    "humidity": 58.654,
+    "pressure": 1015.17,
+    "gas_resistance": 21855.42797494781,
+    "created_at": "2023-01-06 10:34:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.17,
+    "humidity": 58.689,
+    "pressure": 1015.15,
+    "gas_resistance": 21741.952232606436,
+    "created_at": "2023-01-06 10:34:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.17,
+    "humidity": 58.656,
+    "pressure": 1015.15,
+    "gas_resistance": 21741.952232606436,
+    "created_at": "2023-01-06 10:34:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.16,
+    "humidity": 58.891,
+    "pressure": 1015.17,
+    "gas_resistance": 21719.39834024896,
+    "created_at": "2023-01-06 10:34:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.17,
+    "humidity": 58.812,
+    "pressure": 1015.15,
+    "gas_resistance": 21832.638164754957,
+    "created_at": "2023-01-06 10:34:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.18,
+    "humidity": 58.867,
+    "pressure": 1015.17,
+    "gas_resistance": 21764.553014553017,
+    "created_at": "2023-01-06 10:34:07"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.19,
+    "humidity": 58.679,
+    "pressure": 1015.15,
+    "gas_resistance": 21719.39834024896,
+    "created_at": "2023-01-06 10:33:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.2,
+    "humidity": 58.72,
+    "pressure": 1015.17,
+    "gas_resistance": 21674.430641821946,
+    "created_at": "2023-01-06 10:33:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.21,
+    "humidity": 58.661,
+    "pressure": 1015.15,
+    "gas_resistance": 21696.891191709845,
+    "created_at": "2023-01-06 10:33:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.22,
+    "humidity": 58.592,
+    "pressure": 1015.17,
+    "gas_resistance": 21674.430641821946,
+    "created_at": "2023-01-06 10:33:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.23,
+    "humidity": 58.628,
+    "pressure": 1015.15,
+    "gas_resistance": 21629.64876033058,
+    "created_at": "2023-01-06 10:33:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.23,
+    "humidity": 58.607,
+    "pressure": 1015.15,
+    "gas_resistance": 21585.051546391755,
+    "created_at": "2023-01-06 10:33:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.23,
+    "humidity": 58.55,
+    "pressure": 1015.15,
+    "gas_resistance": 21652.016546018618,
+    "created_at": "2023-01-06 10:32:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.23,
+    "humidity": 58.544,
+    "pressure": 1015.15,
+    "gas_resistance": 21540.637860082305,
+    "created_at": "2023-01-06 10:32:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.23,
+    "humidity": 58.594,
+    "pressure": 1015.17,
+    "gas_resistance": 21562.821833161688,
+    "created_at": "2023-01-06 10:32:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.23,
+    "humidity": 58.679,
+    "pressure": 1015.17,
+    "gas_resistance": 21430.39918116684,
+    "created_at": "2023-01-06 10:32:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.22,
+    "humidity": 58.759,
+    "pressure": 1015.17,
+    "gas_resistance": 21496.40657084189,
+    "created_at": "2023-01-06 10:32:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.21,
+    "humidity": 58.796,
+    "pressure": 1015.17,
+    "gas_resistance": 21386.618998978553,
+    "created_at": "2023-01-06 10:32:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.2,
+    "humidity": 58.862,
+    "pressure": 1015.17,
+    "gas_resistance": 21343.01732925586,
+    "created_at": "2023-01-06 10:31:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.2,
+    "humidity": 58.83,
+    "pressure": 1015.19,
+    "gas_resistance": 21277.947154471545,
+    "created_at": "2023-01-06 10:31:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.17,
+    "humidity": 58.887,
+    "pressure": 1015.17,
+    "gas_resistance": 21364.79591836735,
+    "created_at": "2023-01-06 10:31:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 59.03,
+    "pressure": 1015.17,
+    "gas_resistance": 21364.79591836735,
+    "created_at": "2023-01-06 10:31:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.259,
+    "pressure": 1015.19,
+    "gas_resistance": 21343.01732925586,
+    "created_at": "2023-01-06 10:31:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 59.559,
+    "pressure": 1015.21,
+    "gas_resistance": 21343.01732925586,
+    "created_at": "2023-01-06 10:31:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.08,
+    "humidity": 59.946,
+    "pressure": 1015.19,
+    "gas_resistance": 21299.593082400814,
+    "created_at": "2023-01-06 10:30:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.08,
+    "humidity": 59.895,
+    "pressure": 1015.21,
+    "gas_resistance": 21256.345177664978,
+    "created_at": "2023-01-06 10:30:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 59.21,
+    "pressure": 1015.19,
+    "gas_resistance": 21452.35655737705,
+    "created_at": "2023-01-06 10:30:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.08,
+    "humidity": 59.143,
+    "pressure": 1015.19,
+    "gas_resistance": 21518.499486125387,
+    "created_at": "2023-01-06 10:30:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.08,
+    "humidity": 59.073,
+    "pressure": 1015.19,
+    "gas_resistance": 21364.79591836735,
+    "created_at": "2023-01-06 10:30:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 59.081,
+    "pressure": 1015.17,
+    "gas_resistance": 21234.78701825558,
+    "created_at": "2023-01-06 10:30:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 59.055,
+    "pressure": 1015.21,
+    "gas_resistance": 21452.35655737705,
+    "created_at": "2023-01-06 10:29:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.1,
+    "humidity": 58.946,
+    "pressure": 1015.21,
+    "gas_resistance": 21321.283095723014,
+    "created_at": "2023-01-06 10:29:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.1,
+    "humidity": 58.958,
+    "pressure": 1015.21,
+    "gas_resistance": 21277.947154471545,
+    "created_at": "2023-01-06 10:29:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.11,
+    "humidity": 58.958,
+    "pressure": 1015.19,
+    "gas_resistance": 21191.8016194332,
+    "created_at": "2023-01-06 10:29:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.11,
+    "humidity": 58.933,
+    "pressure": 1015.19,
+    "gas_resistance": 21277.947154471545,
+    "created_at": "2023-01-06 10:29:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.12,
+    "humidity": 59.001,
+    "pressure": 1015.21,
+    "gas_resistance": 21148.989898989897,
+    "created_at": "2023-01-06 10:29:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.014,
+    "pressure": 1015.19,
+    "gas_resistance": 21127.648839556005,
+    "created_at": "2023-01-06 10:28:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.12,
+    "humidity": 58.916,
+    "pressure": 1015.21,
+    "gas_resistance": 21063.883299798796,
+    "created_at": "2023-01-06 10:28:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.11,
+    "humidity": 58.99,
+    "pressure": 1015.17,
+    "gas_resistance": 21063.883299798796,
+    "created_at": "2023-01-06 10:28:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.1,
+    "humidity": 58.933,
+    "pressure": 1015.19,
+    "gas_resistance": 21042.713567839197,
+    "created_at": "2023-01-06 10:28:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.1,
+    "humidity": 58.914,
+    "pressure": 1015.21,
+    "gas_resistance": 21042.713567839197,
+    "created_at": "2023-01-06 10:28:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.1,
+    "humidity": 59.005,
+    "pressure": 1015.21,
+    "gas_resistance": 20916.583416583417,
+    "created_at": "2023-01-06 10:28:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.11,
+    "humidity": 59.017,
+    "pressure": 1015.21,
+    "gas_resistance": 20979.458917835673,
+    "created_at": "2023-01-06 10:27:57"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.11,
+    "humidity": 58.977,
+    "pressure": 1015.21,
+    "gas_resistance": 20895.708582834333,
+    "created_at": "2023-01-06 10:27:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.12,
+    "humidity": 59.136,
+    "pressure": 1015.23,
+    "gas_resistance": 20709.69337289812,
+    "created_at": "2023-01-06 10:27:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.12,
+    "humidity": 59.06,
+    "pressure": 1015.23,
+    "gas_resistance": 20791.95630585899,
+    "created_at": "2023-01-06 10:27:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.007,
+    "pressure": 1015.19,
+    "gas_resistance": 20547.10500490677,
+    "created_at": "2023-01-06 10:27:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.196,
+    "pressure": 1015.21,
+    "gas_resistance": 20506.856023506367,
+    "created_at": "2023-01-06 10:27:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.177,
+    "pressure": 1015.21,
+    "gas_resistance": 20446.77734375,
+    "created_at": "2023-01-06 10:26:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.12,
+    "humidity": 59.24,
+    "pressure": 1015.23,
+    "gas_resistance": 20327.66990291262,
+    "created_at": "2023-01-06 10:26:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.1,
+    "humidity": 59.32,
+    "pressure": 1015.23,
+    "gas_resistance": 20406.92007797271,
+    "created_at": "2023-01-06 10:26:37"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 59.21,
+    "pressure": 1015.21,
+    "gas_resistance": 20268.63504356244,
+    "created_at": "2023-01-06 10:26:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 59.222,
+    "pressure": 1015.24,
+    "gas_resistance": 19978.530534351146,
+    "created_at": "2023-01-06 10:26:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.11,
+    "humidity": 59.288,
+    "pressure": 1015.24,
+    "gas_resistance": 20055.076628352494,
+    "created_at": "2023-01-06 10:26:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.12,
+    "humidity": 59.293,
+    "pressure": 1015.24,
+    "gas_resistance": 19883.66571699905,
+    "created_at": "2023-01-06 10:25:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.13,
+    "humidity": 59.202,
+    "pressure": 1015.23,
+    "gas_resistance": 19978.530534351146,
+    "created_at": "2023-01-06 10:25:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.14,
+    "humidity": 59.192,
+    "pressure": 1015.24,
+    "gas_resistance": 19789.697542533082,
+    "created_at": "2023-01-06 10:25:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 59.301,
+    "pressure": 1015.23,
+    "gas_resistance": 19771.010387157698,
+    "created_at": "2023-01-06 10:25:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 59.417,
+    "pressure": 1015.24,
+    "gas_resistance": 19513.047530288914,
+    "created_at": "2023-01-06 10:25:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 59.559,
+    "pressure": 1015.24,
+    "gas_resistance": 19404.54124189064,
+    "created_at": "2023-01-06 10:25:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 59.559,
+    "pressure": 1015.24,
+    "gas_resistance": 19350.739371534197,
+    "created_at": "2023-01-06 10:24:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.15,
+    "humidity": 59.688,
+    "pressure": 1015.26,
+    "gas_resistance": 19208.715596330276,
+    "created_at": "2023-01-06 10:24:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.16,
+    "humidity": 59.99,
+    "pressure": 1015.26,
+    "gas_resistance": 18913.730803974708,
+    "created_at": "2023-01-06 10:24:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.18,
+    "humidity": 63.67,
+    "pressure": 1015.26,
+    "gas_resistance": 18382.352941176472,
+    "created_at": "2023-01-06 10:24:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.18,
+    "humidity": 70.97,
+    "pressure": 1015.26,
+    "gas_resistance": 17895.299145299145,
+    "created_at": "2023-01-06 10:24:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.18,
+    "humidity": 72.669,
+    "pressure": 1015.28,
+    "gas_resistance": 18065.14236410699,
+    "created_at": "2023-01-06 10:23:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.01,
+    "humidity": 59.454,
+    "pressure": 1015.24,
+    "gas_resistance": 21408.486707566462,
+    "created_at": "2023-01-06 10:23:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.02,
+    "humidity": 59.397,
+    "pressure": 1015.26,
+    "gas_resistance": 21408.486707566462,
+    "created_at": "2023-01-06 10:23:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.02,
+    "humidity": 59.287,
+    "pressure": 1015.26,
+    "gas_resistance": 21386.618998978553,
+    "created_at": "2023-01-06 10:23:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.03,
+    "humidity": 59.434,
+    "pressure": 1015.24,
+    "gas_resistance": 21408.486707566462,
+    "created_at": "2023-01-06 10:23:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.04,
+    "humidity": 59.504,
+    "pressure": 1015.26,
+    "gas_resistance": 21408.486707566462,
+    "created_at": "2023-01-06 10:23:06"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.05,
+    "humidity": 59.456,
+    "pressure": 1015.24,
+    "gas_resistance": 21234.78701825558,
+    "created_at": "2023-01-06 10:22:56"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.06,
+    "humidity": 59.456,
+    "pressure": 1015.24,
+    "gas_resistance": 21364.79591836735,
+    "created_at": "2023-01-06 10:22:46"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.07,
+    "humidity": 59.428,
+    "pressure": 1015.26,
+    "gas_resistance": 21343.01732925586,
+    "created_at": "2023-01-06 10:22:36"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.08,
+    "humidity": 59.337,
+    "pressure": 1015.26,
+    "gas_resistance": 21277.947154471545,
+    "created_at": "2023-01-06 10:22:26"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.09,
+    "humidity": 59.366,
+    "pressure": 1015.24,
+    "gas_resistance": 21321.283095723014,
+    "created_at": "2023-01-06 10:22:16"
+  },
+  {
+    "client": "pi-1",
+    "heat_stable": 1,
+    "temperature": 24.1,
+    "humidity": 59.54,
+    "pressure": 1015.28,
+    "gas_resistance": 21256.345177664978,
+    "created_at": "2023-01-06 10:22:06"
+  }
+]
